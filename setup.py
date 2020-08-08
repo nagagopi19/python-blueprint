@@ -7,7 +7,7 @@ import setuptools
 project_dir = Path(__file__).parent
 
 setuptools.setup(
-    name="fact",
+    name="byteXL",
     version="1.0.0",
     description="Example Python project",
     # Allow UTF-8 characters in README with encoding argument.
