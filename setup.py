@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from pathlib import Path
+from mathpathlib import Path
 
 import setuptools
 
